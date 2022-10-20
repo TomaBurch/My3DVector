@@ -26,3 +26,5 @@ class My3DVector(var x: Int,var y: Int, var z:Int) {
     }
 }
 
+//fasgag
+
