@@ -25,6 +25,3 @@ class My3DVector(var x: Int,var y: Int, var z:Int) {
         return "($x,$y,$z)"
     }
 }
-
-//fasgag
-
